@@ -2,6 +2,9 @@
 My main page on my "rynnlee.tk" web-site<br>
 This is a project for css/js skill practice
 
+# 👓 Exterior
+![alt text](https://rynnlee.tk/images/Parallax-1.png)
+
 # 🛠️ How To Run
 You only need to download the project<br>
 And open ```index.html``` to use it
