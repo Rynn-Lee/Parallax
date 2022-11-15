@@ -1,8 +1,8 @@
-# Parallax
+# 🖊️ About the project
 My main page on my "rynnlee.tk" web-site<br>
 This is a project for css/js skill practice
 
-# How To Run
+# 🛠️ How To Run
 You only need to download the project<br>
 And open ```index.html``` to use it
 
