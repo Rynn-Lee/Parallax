@@ -24,11 +24,6 @@ body {
   text-align: center;
 }
 
-.layers::after {
-  content: "";
-  background-image: url(../images/ground.png);
-}
-
 .content {
   z-index: 100;
   overflow: hidden;
